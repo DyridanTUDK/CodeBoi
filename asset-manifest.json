@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CodeBoi/static/css/main.d27c6434.chunk.css",
-    "main.js": "/CodeBoi/static/js/main.9b5c740e.chunk.js",
-    "main.js.map": "/CodeBoi/static/js/main.9b5c740e.chunk.js.map",
+    "main.js": "/CodeBoi/static/js/main.81da76db.chunk.js",
+    "main.js.map": "/CodeBoi/static/js/main.81da76db.chunk.js.map",
     "runtime-main.js": "/CodeBoi/static/js/runtime-main.52ce8344.js",
     "runtime-main.js.map": "/CodeBoi/static/js/runtime-main.52ce8344.js.map",
     "static/css/2.3c03f26f.chunk.css": "/CodeBoi/static/css/2.3c03f26f.chunk.css",
     "static/js/2.4a2bb028.chunk.js": "/CodeBoi/static/js/2.4a2bb028.chunk.js",
     "static/js/2.4a2bb028.chunk.js.map": "/CodeBoi/static/js/2.4a2bb028.chunk.js.map",
     "index.html": "/CodeBoi/index.html",
-    "precache-manifest.89b63a73067cc5c4647798ed720aa8e1.js": "/CodeBoi/precache-manifest.89b63a73067cc5c4647798ed720aa8e1.js",
+    "precache-manifest.ad3cbf82d30c9b982ae6f6a73eccfb9c.js": "/CodeBoi/precache-manifest.ad3cbf82d30c9b982ae6f6a73eccfb9c.js",
     "service-worker.js": "/CodeBoi/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/CodeBoi/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.d27c6434.chunk.css.map": "/CodeBoi/static/css/main.d27c6434.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.4a2bb028.chunk.js",
     "static/css/main.d27c6434.chunk.css",
-    "static/js/main.9b5c740e.chunk.js"
+    "static/js/main.81da76db.chunk.js"
   ]
 }
